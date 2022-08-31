@@ -15,3 +15,6 @@ The saved data is displayed in a tableview where the user can swipe left or righ
 ![](https://images4.imagebam.com/df/fb/86/ME496R1_o.png)
 ![](https://images4.imagebam.com/30/6d/c6/ME496R2_o.png)
 ![](https://images4.imagebam.com/a2/c1/42/ME496R0_o.png)
+
+
+*** Per shkak te mungeses se pajisjes MAC, pajisja eshte huazuar per nje kohe shume te shkurter dhe per kete arsye eshte dashur qe projekti te behet upload permes 'Upload files', nga pajisja ime personale. ***
